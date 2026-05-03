@@ -23,3 +23,6 @@ This project analyzes how well a resume matches a job description using NLP tech
 ## 📷 Demo
 
 ![App Screenshot](screenshot.png)
+
+## 🌍 Live Demo
+[Click here to try](https://ai-resume-analyzer-jqx3pf34w45mnwe8krafqv.streamlit.app/)
