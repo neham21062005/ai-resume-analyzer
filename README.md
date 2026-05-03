@@ -19,3 +19,7 @@ This project analyzes how well a resume matches a job description using NLP tech
 
 2. Run app:
    streamlit run app.py
+
+## 📷 Demo
+
+![App Screenshot](screenshot.png)
